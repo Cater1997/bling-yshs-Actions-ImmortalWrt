@@ -9,5 +9,6 @@ git clone https://github.com/CrazyPegasus/luci-app-accesscontrol-plus.git packag
 git clone https://github.com/kongfl888/luci-app-adbyby-plus-lite.git package/adbyby
 git clone https://github.com/stevenjoezhang/luci-app-adguardhome.git package/adguardhome
 git clone https://github.com/alvazhang79/luci-app-advancedsetting.git package/advancedsetting
+git clone https://github.com/ophub/luci-app-amlogic.git package/amlogic
 git clone https://github.com/DustReliant/luci-app-filetransfer.git package/filetransfer
 git clone https://github.com/chenmozhijin/turboacc.git package/turboacc
